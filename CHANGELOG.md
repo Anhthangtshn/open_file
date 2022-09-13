@@ -23,7 +23,6 @@
 * change use FileProvider from Android M to Android N
 ## 2.0.2
 * catch No Activity found to handle Intent exception
-* Optimize request REQUEST_INSTALL_PACKAGES permission on Android O
 ## 2.0.1+2
 * fix android M FLAG_GRANT_READ_URI_PERMISSION
 ## 2.0.1+1
